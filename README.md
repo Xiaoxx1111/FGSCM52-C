@@ -28,9 +28,7 @@ The data split is established before condition generation so that an original im
 
 ### Dataset Download
 
-- **Download link:** To be added.
-- **Access code:** To be added.
-
+[Download FGSCM-52-C-S5.zip (6.42 GB)](https://huggingface.co/datasets/wenaaaaa/FGSCM-52-C-S5/resolve/main/FGSCM-52-C-S5.zip?download=true)
 ## Evaluation
 
 The evaluation considers recognition performance under clean and varying observation conditions. Mean condition accuracy (mCA) summarizes performance across the 12 conditions, while worst condition accuracy (WCA) reflects performance under the most challenging condition.
